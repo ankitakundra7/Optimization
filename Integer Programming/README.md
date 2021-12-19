@@ -2,7 +2,7 @@
 
 A company is thinking about building new facilities in Austin and Dallas. Here is the relevant data.
 
-Screen Shot 2020-09-30 at 12.47.08 PM.png
+![](Screen Shot 2020-09-30 at 12.47.08 PM.png)
 
 Total capital available for investment is $11M. You can’t build more than one factory (warehouse) in one place. At most one warehouse must be built in Austin or Dallas. At least one factory must be built in Austin or Dallas. Find the optimal investment strategy.
 
