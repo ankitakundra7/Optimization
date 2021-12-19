@@ -14,7 +14,7 @@ Is building the Factory in Dallas part of the optimal investment strategy?
 
 Western Airlines wants to design a hub system in the United States. Each hub is used for connecting flights to and from cities within 1000 miles of the hub. Western runs flights among the following cities: Atlanta (ATL), Boston (BOS), Chicago (CHI), Denver (DEN), Houston (HOU), Los Angeles (LAX), New Orleans (NO), New York (NY), Pittsburgh (PIT), Salt Lake City (SLC), San Francisco (SF), and Seattle (SEA). The company wants to determine the smallest number of hubs it needs to cover all these cities, where a city is covered if it is within 1000 miles of at least one hub. The table below lists which cities are within 1000 miles of other cities. For example, if a hub was placed at Boston (BOS), it could cover the cities of Boston, New York, and Pittsburgh.
 
-Screen Shot 2020-09-30 at 12.52.50 PM.png
+![](https://github.com/ankitakundra7/Optimization/Integer_Programming/Screen_Shot_2020-09-30_at_12.52.50 PM.png)
 
 Formulate and solve this problem as a binary integer program.
 
