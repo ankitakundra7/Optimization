@@ -36,3 +36,23 @@ Develop and solve an integer program to minimize the waste from cutting to satis
  
 
 How many rolls get cut into the pattern such that there are 3 cuts of 25 inches, and 1 cut of 37 inches (this pattern results in 8" waste)?
+
+
+
+## Question 5
+
+The days-off scheduling problem must be solved routinely by businesses that operate 6 or 7 days a week. Examples include hospitals, airlines, municipal transportation companies, and the postal service. The most common example is the (5,7)-cyclic staffing problem. The objective of it is to minimize the cost of assigning workers to a 7-day cyclic schedule so that
+
+1) Sufficient workers are available every day.
+
+2) Each person works 5 consecutive days and is idle to the remaining 2 days.
+
+Here is the table showing the cost of having an employee for each day and the number of employees required for each day.
+
+![Screen_Shot_2020-09-30_at_1.07.29_PM](Screen_Shot_2020-09-30_at_1.07.29_PM.png)
+
+For example, the pattern that one works from Sunday to Thursday costs 90 + 60 × 4 = 330.
+
+Formulate and solve an integer programming problem to represent this problem.
+
+How many employees work Monday-Friday?
