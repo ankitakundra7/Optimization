@@ -29,7 +29,7 @@ Rankings are ubiquitous. You may have heard of Google’s PageRank and IMDB movi
 
 In a football league one is interested in modeling the ratings of teams based on the margin of victory and not just the outcomes, win/loss/draw. Consider the following data for five teams playing in such a league
 
-Screen Shot 2020-08-12 at 11.19.30 AM.png
+![Screen Shot 2020-08-12 at 11.19.30 AM](Screen Shot 2020-08-12 at 11.19.30 AM.png)
 
 An entry (i, j) = (x-y) in this table represents a match between team i and team j where team i scored x points and team j scored y points. Our task is to first rate the teams and then convert the ratings to rankings.
 
