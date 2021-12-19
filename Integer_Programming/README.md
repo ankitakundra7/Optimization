@@ -2,7 +2,7 @@
 
 A company is thinking about building new facilities in Austin and Dallas. Here is the relevant data.
 
-![](https://github.com/ankitakundra7/Optimization/Integer_Programming/Screen_Shot_2020-09-30_at_12.47.08_PM.png)
+![Screen_Shot_2020-09-30_at_12.47.08_PM.png](Screen_Shot_2020-09-30_at_12.47.08_PM.png)
 
 Total capital available for investment is $11M. You can’t build more than one factory (warehouse) in one place. At most one warehouse must be built in Austin or Dallas. At least one factory must be built in Austin or Dallas. Find the optimal investment strategy.
 
@@ -27,7 +27,7 @@ Is SLC a hub in the optimal solution?
 
 A paper mill cuts the rolls of paper into different widths to satisfy customers’ demand. In this problem, assume the original rolls of paper are 120 inches wide. The table below shows the orders received by the paper mill.
 
-Screen Shot 2020-09-30 at 12.56.55 PM.png
+![Screen_Shot_2020-09-30_at_12.56.55_PM](Screen_Shot_2020-09-30_at_12.56.55_PM.png)
 
 A 120 inch roll can be cut in many ways. For example, we can cut four 25-inch rolls while wasting the remaining 20 inches; we can also cut one 25-inch, one 37-inch, and one 54-inch. In the second case, only 4 inches is wasted.
 
