@@ -45,6 +45,8 @@ The goal of this problem is to select a set of foods that will satisfy a set of 
 
 How many servings of corn should you eat?  Round to 2 decimal places.
 
+![Screen_Shot_2020-09-14_at_1.24.01_PM](Screen_Shot_2020-09-14_at_1.24.01_PM.png)
+
 ## Question 5
 
 Paper and wood products companies need to define cutting schedules that will maximize the total wood yield of their forests over some planning period. Suppose that a firm with control of 2 forest units wants to identify the best cutting schedule over a planning horizon of 3 years. Forest unit 1 has a total acreage of 2 and unit 2 has a total of 3 acres. The studies that the company has undertaken predict that each acre in unit 1(2) will have 1, 1.3, 1.4 (1, 1.2, 1.6) tons of woods per acre available for harvesting in year 1, 2, 3 respectively. Based on its prediction of economic conditions, the company believes that it should harvest at least 1.2, 1.5, 2 tons of wood in year 1, 2, 3 separately. Due to the availability of equipment and personnel, the company can harvest at most 2, 2, 3 tons of wood in year 1, 2, 3. Find the company’s best cutting strategy that maximizes the total weights of wood. Here discounting of the time value should not be considered.  If some fraction of a forest unit is cut down in year 1, that part of the forest cannot be cut again for the remaining 2 years.  Similarly if some fraction of the forest unit is cut down in year 2 it cannot be cut in year 3.
